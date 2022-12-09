@@ -2,7 +2,7 @@
 
 /**
  * main-Entry point
- * Description:prints out the value stored in the variable using puts function
+ * Description:prints output using puts function
  * Return:Always 0(Success)
  */
 
